@@ -12,14 +12,3 @@
 
 点击完成按钮，将录制好的录像再**压缩**，然后存储为mp4格式的视频后将路径返回给调用控制器。
 
-## 效果图：
-
-![image_pre](https://github.com/briceZhao/VideoTaker/blob/images/image_pre.PNG)
-
-
-
-![image_recording](https://github.com/briceZhao/VideoTaker/blob/images/image_recording.PNG)
-
-
-
-![image_finish](https://github.com/briceZhao/VideoTaker/blob/images/image_finish.PNG)
